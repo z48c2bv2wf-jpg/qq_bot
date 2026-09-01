@@ -13,7 +13,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 # НАСТРОЙКИ
 # =========================
 
-BOT_TOKEN = "8660296617:AAGFfqM8_6OzEvQCWOjzzT5o1fOnWFifIH0"
+BOT_TOKEN = "8660296617:AAG36u-bIw_XC3MQmAzc4dXtDIPwtGyEFHQ"
 
 DB_NAME = Path("casino.db")
 
